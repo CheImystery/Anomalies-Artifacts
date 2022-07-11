@@ -1,2 +1,2 @@
-# Anomalies-Artifacts
+# Anomalies & Artifacts
 Application-companion for board game
